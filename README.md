@@ -8,3 +8,7 @@ $ cd bounce-ball-animation
 $ npm install
 $ npm start
 ```
+
+[→ Go to this site](https://bounce-ball-animation.hseoy.vercel.app/)
+
+![desktop preview](images/desktop-preview.gif)
