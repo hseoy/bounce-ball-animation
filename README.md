@@ -11,4 +11,4 @@ $ npm start
 
 [→ Go to this site](https://bounce-ball-animation.hseoy.vercel.app/)
 
-![desktop preview](images/desktop-preview.gif)
+[![desktop preview](images/desktop-preview.gif)](https://bounce-ball-animation.hseoy.vercel.app/))
