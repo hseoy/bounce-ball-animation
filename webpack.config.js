@@ -5,7 +5,7 @@ module.exports = {
     app: './js/index.js',
   },
   output: {
-    path: __dirname + "/dist",
+    path: __dirname + "/public/dist",
     filename: '[name].js',
     publicPath: __dirname,
   },
