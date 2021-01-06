@@ -1,0 +1,18 @@
+{
+  "name": "bounce-ball-animation",
+  "homepage": "https://github.com/hseoy/bounce-ball-animation#readme",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "webpack --mode production",
+    "start": "npm run build && live-server --port=8080 --open=public"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.10",
+    "@babel/preset-env": "^7.12.11",
+    "babel-loader": "^8.2.2",
+    "live-server": "^1.2.1",
+    "webpack": "^5.11.1",
+    "webpack-cli": "^4.3.1"
+  }
+}
